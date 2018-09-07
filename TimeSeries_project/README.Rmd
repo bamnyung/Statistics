@@ -1,3 +1,0 @@
-## <Time Series> project
-
-This project fits Bitcoin price to ARIMA-GARCH model. Data is close price of bitcoin crawled at 'Poloniex' from 01.07.2015 to 08.05.2018.
